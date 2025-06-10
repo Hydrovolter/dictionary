@@ -59,8 +59,8 @@ def generate_codebase_summary(root_dir, output_file, ignore_list=None, ignore_ex
             '.exe', '.dll', '.so', '.o', '.class', # Compiled/binary
             '.woff', '.woff2', '.ttf', '.otf', '.eot', # Fonts
             '.DS_Store',
-            '.txt', '.md', '.svg', '.py'
-            '.dz', '.idx', '.ifo', 'syn',
+            '.txt', '.md', '.svg', '.py',
+            '.dz', '.idx', '.ifo', '.syn'
         ]
     ignore_extensions = [ext.lower() for ext in ignore_extensions]
 
