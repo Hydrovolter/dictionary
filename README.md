@@ -3,6 +3,12 @@
 ### A web dictionary reader
 ![image](https://github.com/jaydenlo08/dictionary/assets/77671261/036ac30f-1389-41e0-b290-f3310a30c0c4)
 
+## <a name='offline'></a> ❤️ Try it!
+* [English](https://jaydenlo08.github.io/dictionary/?lang=English)
+* [French](https://jaydenlo08.github.io/dictionary/?lang=French)
+* [Latin](https://jaydenlo08.github.io/dictionary/?lang=Latin)
+* [Greek](https://jaydenlo08.github.io/dictionary/?lang=Greek)
+
 ## <a name='offline'></a> 🔗 Offline Mode
 If you have already downloaded these files, you could use this dictionary offline.
 1. Press upload
